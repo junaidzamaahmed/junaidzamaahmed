@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQFg3xKBRo9iYw/profile-displaybackgroundimage-shrink_350_1400/0/1674125104805?e=1720051200&v=beta&t=InHXQqLGD2djea7Vd9d3_DoDPBYEzxCYcPhir2yUC48)](https://junaidahmedzama.vercel.app)
 
 <h1 align="center">Hey there 👋, I'm Junaid Ahmed Zama</h1>
-<h3 align="center">An agile and inquisitive tech stack enthusiast, who's always eager to learn and adapt new technologies to build highly optimized software solutions.</h3>
+<h3 align="center">An agile and inquisitive tech enthusiast, who's always eager to learn and adapt new technologies to build highly optimized software solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaidzamaahmed&label=Profile%20views&color=0e75b6&style=flat" alt="junaidzamaahmed" /> </p>
