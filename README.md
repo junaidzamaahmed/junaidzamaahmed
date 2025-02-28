@@ -1,4 +1,4 @@
-[![MasterHead]([https://media.licdn.com/dms/image/v2/D4D16AQHYh9t0-yJRgw/profile-displaybackgroundimage-shrink_350_1400/B4DZU9VC35HIAY-/0/1740490683652?e=1746057600&v=beta&t=eRAcvfSddIql2Nl5Z6zvKxH0BAt-LVCgcw3lISO0dIE])](https://junaidahmedzama.vercel.app)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHYh9t0-yJRgw/profile-displaybackgroundimage-shrink_350_1400/B4DZU9VC35HIAY-/0/1740490683652?e=1746057600&v=beta&t=eRAcvfSddIql2Nl5Z6zvKxH0BAt-LVCgcw3lISO0dIE)](https://junaidahmedzama.vercel.app)
 
 <h1 align="center">Hey there 👋, I'm Junaid Ahmed Zama</h1>
 <h3 align="center">An agile and inquisitive tech enthusiast, who's always eager to learn and adapt new technologies to build highly optimized software solutions.</h3>
